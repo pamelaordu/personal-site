@@ -1,0 +1,33 @@
+#introduction{
+    background-image: url("./Images/background.jpg");
+    background-size: cover;
+    width:100%;
+    height: auto;
+}
+
+.introtext p{
+    text-align: justify;
+}
+
+#resume{
+    background-color: #ec5d2e;
+}
+
+#projects{
+    background-color: #fd3b8e;
+}
+
+#interests{
+    color:#ec5d2e;
+}
+
+#contact{
+    background-image: url("./Images/background.jpg");
+    background-size: cover;
+    width:100%;
+    height: auto;
+}
+
+#interests .container{
+    max-width: 500px;
+}
